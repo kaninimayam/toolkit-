@@ -6,7 +6,7 @@ if %errorlevel% neq 0 (
 )
 :: ==========================================================================================
 ::                              ARAVINDH
-::                    WINDOWS IT ADMIN  TOOLKIT 
+::                WINDOWS IT ADMIN  TOOLKIT [kaninimayam07@gmail.com]
 :: ==========================================================================================
 
 net session >nul 2>&1
